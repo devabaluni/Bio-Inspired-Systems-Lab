@@ -63,7 +63,7 @@ def ant_colony_optimization(cities, num_ants, alpha, beta, rho, pheromone_init, 
 
     return best_route, best_distance
 
-print("1BM22CS092\t\t Dipesh Sah")
+
 print("Lab Experiment-3")
 print("Implementation of Traveling Salesman Problem Using Ant Colony Optimization.\n")
 
