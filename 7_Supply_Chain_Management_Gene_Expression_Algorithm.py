@@ -57,7 +57,6 @@ def mutate(individual, max_order, mutation_prob=0.2):
 def gene_expression_algorithm():
     random.seed(42)  
     
-    print("1BM22CS092\t\t Dipesh Sah")
     print("Lab Experiment-7")
     print("Implementation of Supply Chain Management \nUsing Gene Expression Algorithm.\n")
     
