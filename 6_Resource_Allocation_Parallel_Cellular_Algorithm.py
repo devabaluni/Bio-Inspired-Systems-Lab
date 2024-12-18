@@ -65,7 +65,6 @@ def parallel_cellular_algorithm(grid_size, num_resources, num_iterations, radius
     return best_solution, best_fitness
 
 if __name__ == "__main__":
-    print("1BM22CS092\t\t Dipesh Sah")
     print("\tLab Experiment-6")
     print("Implementation of Resource Allocation \nUsing Parallel Cellular Algorithm with Mutation.\n")
 
