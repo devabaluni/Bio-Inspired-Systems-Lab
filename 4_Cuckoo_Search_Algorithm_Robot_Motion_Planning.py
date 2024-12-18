@@ -55,7 +55,6 @@ def cuckoo_search_robot(num_nests, max_iter, waypoints, lower_bound, upper_bound
 
     return best_nest, best_fitness
 
-print("1BM22CS092\t\t Dipesh Sah")
 print("Lab Experiment-4")
 print("Implementation of Robot Motion Planning for finding \nthe most efficient paths Using Cuckoo Search.\n")
 
