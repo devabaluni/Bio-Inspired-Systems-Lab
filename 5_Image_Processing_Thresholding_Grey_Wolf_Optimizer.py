@@ -94,7 +94,6 @@ def image_thresholding_fitness(threshold, image):
 
 if __name__ == "__main__":
     
-    print("1BM22CS092\t\t Dipesh Sah")
     print("Lab Experiment-5")
     print("Implementation of Image Processing/Thresholding Using Grey Wolf Optimizer.\n")
 
