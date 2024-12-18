@@ -82,7 +82,6 @@ def pso(num_particles, num_dimensions, bounds, max_iterations, loads, cost_coeff
 
 if __name__ == "__main__":
     
-    print("1BM22CS092\t\t Dipesh Sah")
     print("Lab Experiment-2")
     print("Implementation of Power Grid Optimization to minimize power \nloss & balance demand supply using Particle Swam Optimization.\n")
     
